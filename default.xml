@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="git://ms-server/aosp-mirror/" />
+           fetch="https://android.googlesource.com/" />
   <remote  name="github"
            fetch="https://github.com/seek-for-android/" />
   <default revision="refs/tags/android-5.0.0_r3"
